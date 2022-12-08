@@ -4,3 +4,6 @@
 [submodule "java-lotto"]
 	path = java-lotto
 	url = https://github.com/nn98/java-lotto
+[submodule "java-bridge"]
+	path = java-bridge
+	url = https://github.com/nn98/java-bridge
