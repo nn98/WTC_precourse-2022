@@ -1,3 +1,6 @@
 [submodule "java-baseball"]
 	path = java-baseball
 	url = https://github.com/nn98/java-baseball
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/nn98/java-lotto
